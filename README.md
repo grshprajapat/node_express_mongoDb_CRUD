@@ -23,7 +23,7 @@
   <h2>Getting Started</h2>
 
   <ol>
-    <li>Clone this repository: git clone <a href="https://github.com/grshprajapat/node_express_mongoDb_CRUD.git" >https://github.com/grshprajapat/node_express_mongoDb_CRUD.git </a> </li>
+    <li>Clone this repository: git clone <a href="https://github.com/grshprajapat/node_express_mongoDb_CRUD.git" >here </a> </li>
     <li>Change directory to the project folder: <code>cd [project_folder]</code></li>
     <li>Install dependencies: <code>npm install</code></li>
     <li>Start the MongoDB server (instructions vary by OS, refer to official documentation)</li>
